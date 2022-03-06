@@ -1,6 +1,6 @@
 ### Hi my name is Harsh :wave:, 
-Here are my projects. 
-If you would like to reach out to me 📫:
+Here are my projects.  \n
+If you would like to reach out to me 📫: \n
 email: harsh.gandhi@uwaterloo.ca
 
 <!--
