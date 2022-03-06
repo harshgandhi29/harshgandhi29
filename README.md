@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi my name is Harsh :wave:, 
+Here are my projects. 
+If you would like to reach out to me 📫:
+email: harsh.gandhi@uwaterloo.ca
 
 <!--
 **harshgandhi29/harshgandhi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
